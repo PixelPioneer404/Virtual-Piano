@@ -1,5 +1,7 @@
 # 🎹 Virtual Piano
 
+<img width="1920" height="926" alt="Screenshot 2025-11-22 at 2 01 07 PM" src="https://github.com/user-attachments/assets/e49a6c85-8c2d-45f0-b445-7c7b78197e3c" />
+
 A beautiful, interactive virtual piano that you can play using your computer keyboard! Experience the joy of making music right from your browser with realistic piano sounds and smooth animations.
 
 ![Virtual Piano Banner](https://img.shields.io/badge/Virtual-Piano-ff6b6b?style=for-the-badge&logo=music&logoColor=white)
